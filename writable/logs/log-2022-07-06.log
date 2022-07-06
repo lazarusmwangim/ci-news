@@ -1,0 +1,734 @@
+CRITICAL - 2022-07-06 00:33:54 --> Call to a member function update() on null
+in APPPATH\Controllers\Products.php on line 109.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 00:34:00 --> Call to a member function update() on null
+in APPPATH\Controllers\Products.php on line 109.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 00:34:02 --> Call to a member function update() on null
+in APPPATH\Controllers\Products.php on line 109.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 00:39:45 --> Call to a member function update() on null
+in APPPATH\Controllers\Products.php on line 109.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 00:41:54 --> Object of class App\Models\ProductModel could not be converted to string
+in APPPATH\Controllers\Products.php on line 109.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 00:44:40 --> Object of class App\Models\ProductModel could not be converted to string
+in APPPATH\Controllers\Products.php on line 109.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 01:11:14 --> Object of class App\Models\ProductModel could not be converted to string
+in APPPATH\Controllers\Products.php on line 109.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 01:16:04 --> Object of class App\Models\ProductModel could not be converted to string
+in APPPATH\Controllers\Products.php on line 110.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 01:16:16 --> Object of class App\Models\ProductModel could not be converted to string
+in APPPATH\Controllers\Products.php on line 110.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 01:17:26 --> Object of class App\Models\ProductModel could not be converted to string
+in APPPATH\Controllers\Products.php on line 110.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 01:17:46 --> Object of class App\Models\ProductModel could not be converted to string
+in APPPATH\Controllers\Products.php on line 110.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 01:18:31 --> Call to a member function update() on null
+in APPPATH\Controllers\Products.php on line 110.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 01:19:07 --> Call to a member function update() on null
+in APPPATH\Controllers\Products.php on line 110.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 01:20:38 --> Array to string conversion
+in APPPATH\Controllers\Products.php on line 111.
+ 1 APPPATH\Controllers\Products.php(111): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Controllers\\Products.php', 111)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 01:21:15 --> Call to a member function update() on null
+in APPPATH\Controllers\Products.php on line 113.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 01:21:45 --> Call to a member function update() on null
+in APPPATH\Controllers\Products.php on line 114.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 01:22:32 --> Object of class stdClass could not be converted to string
+in APPPATH\Controllers\Products.php on line 112.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 01:22:47 --> Object of class stdClass could not be converted to string
+in APPPATH\Controllers\Products.php on line 112.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 01:23:04 --> Call to a member function update() on null
+in APPPATH\Controllers\Products.php on line 114.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 01:23:49 --> Call to a member function update() on null
+in APPPATH\Controllers\Products.php on line 114.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 01:24:10 --> Object of class App\Models\ProductModel could not be converted to string
+in APPPATH\Controllers\Products.php on line 114.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 01:24:45 --> CodeIgniter\BaseModel::transformDataToArray(): Return value must be of type array, string returned
+in SYSTEMPATH\BaseModel.php on line 1598.
+ 1 SYSTEMPATH\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray('{"otp":"824888"}', 'update')
+ 2 SYSTEMPATH\Model.php(692): CodeIgniter\BaseModel->update([...], '{"otp":"824888"}')
+ 3 APPPATH\Controllers\Products.php(114): CodeIgniter\Model->update('1', '{"otp":"824888"}')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 01:25:36 --> Array to string conversion
+in APPPATH\Controllers\Products.php on line 112.
+ 1 APPPATH\Controllers\Products.php(112): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Controllers\\Products.php', 112)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 02:25:46 --> Undefined property: App\Controllers\Products::$load
+in APPPATH\Controllers\Products.php on line 97.
+ 1 APPPATH\Controllers\Products.php(97): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Products::$load', 'APPPATH\\Controllers\\Products.php', 97)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 02:33:06 --> Class "App\Libraries\AfricasTalkingGateway" not found
+in APPPATH\Libraries\Sms.php on line 17.
+ 1 APPPATH\Controllers\Products.php(99): App\Libraries\SMS::sendSMS('+254705934323', '577366 is your OTP. Do not share with anyone!
+')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 02:35:38 --> Class "App\Libraries\Exception" not found
+in APPPATH\Libraries\AfricasTalkingGateway.php on line 18.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(284): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Libraries\\AfricasTalkingGateway.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Libraries\\AfricasTalkingGateway')
+ 4 APPPATH\Libraries\Sms.php(18): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Libraries\\AfricasTalkingGateway')
+ 5 APPPATH\Controllers\Products.php(99): App\Libraries\SMS::sendSMS('+254705934323', '474711 is your OTP. Do not share with anyone!
+')
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 02:36:32 --> Cannot throw objects that do not implement Throwable
+in APPPATH\Libraries\AfricasTalkingGateway.php on line 101.
+ 1 APPPATH\Libraries\Sms.php(21): App\Libraries\AfricasTalkingGateway->sendMessage('+254705934323', '783394 is your OTP. Do not share with anyone!
+', 'LAZARUS')
+ 2 APPPATH\Controllers\Products.php(99): App\Libraries\SMS::sendSMS('+254705934323', '783394 is your OTP. Do not share with anyone!
+')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 03:11:04 --> Class "App\Controllers\Sms" not found
+in APPPATH\Controllers\Products.php on line 98.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 03:42:57 --> require(vendor/autoload.php): Failed to open stream: No such file or directory
+in APPPATH\Libraries\SMS.php on line 3.
+ 1 APPPATH\Libraries\SMS.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(vendor/autoload.php): Failed to open stream: No such file or directory', 'APPPATH\\Libraries\\SMS.php', 3)
+ 2 APPPATH\Libraries\SMS.php(3): require()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(284): include_once('APPPATH\\Libraries\\SMS.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Libraries\\SMS.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Libraries\\SMS')
+ 6 APPPATH\Controllers\Products.php(98): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Libraries\\SMS')
+ 7 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 8 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 9 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 03:43:06 --> require(vendor/autoload.php): Failed to open stream: No such file or directory
+in APPPATH\Libraries\SMS.php on line 3.
+ 1 APPPATH\Libraries\SMS.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(vendor/autoload.php): Failed to open stream: No such file or directory', 'APPPATH\\Libraries\\SMS.php', 3)
+ 2 APPPATH\Libraries\SMS.php(3): require()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(284): include_once('APPPATH\\Libraries\\SMS.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Libraries\\SMS.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Libraries\\SMS')
+ 6 APPPATH\Controllers\Products.php(98): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Libraries\\SMS')
+ 7 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 8 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 9 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 03:44:08 --> require(vendor/autoload.php): Failed to open stream: No such file or directory
+in APPPATH\Libraries\SMS.php on line 3.
+ 1 APPPATH\Libraries\SMS.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(vendor/autoload.php): Failed to open stream: No such file or directory', 'APPPATH\\Libraries\\SMS.php', 3)
+ 2 APPPATH\Libraries\SMS.php(3): require()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(284): include_once('APPPATH\\Libraries\\SMS.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Libraries\\SMS.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Libraries\\SMS')
+ 6 APPPATH\Controllers\Products.php(98): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Libraries\\SMS')
+ 7 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 8 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 9 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 03:45:27 --> cURL error 60: SSL certificate problem: unable to get local issuer certificate (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://api.africastalking.com/version1/messaging
+in VENDORPATH\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 211.
+ 1 VENDORPATH\guzzlehttp\guzzle\src\Handler\CurlFactory.php(158): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), [...])
+ 2 VENDORPATH\guzzlehttp\guzzle\src\Handler\CurlFactory.php(110): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+ 3 VENDORPATH\guzzlehttp\guzzle\src\Handler\CurlHandler.php(47): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+ 4 VENDORPATH\guzzlehttp\guzzle\src\Handler\Proxy.php(28): GuzzleHttp\Handler\CurlHandler->__invoke(Object(GuzzleHttp\Psr7\Request), [...])
+ 5 VENDORPATH\guzzlehttp\guzzle\src\Handler\Proxy.php(48): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), [...])
+ 6 VENDORPATH\guzzlehttp\guzzle\src\PrepareBodyMiddleware.php(64): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), [...])
+ 7 VENDORPATH\guzzlehttp\guzzle\src\Middleware.php(31): GuzzleHttp\PrepareBodyMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), [...])
+ 8 VENDORPATH\guzzlehttp\guzzle\src\RedirectMiddleware.php(71): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), [...])
+ 9 VENDORPATH\guzzlehttp\guzzle\src\Middleware.php(63): GuzzleHttp\RedirectMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), [...])
+10 VENDORPATH\guzzlehttp\guzzle\src\HandlerStack.php(75): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), [...])
+11 VENDORPATH\guzzlehttp\guzzle\src\Client.php(331): GuzzleHttp\HandlerStack->__invoke(Object(GuzzleHttp\Psr7\Request), [...])
+12 VENDORPATH\guzzlehttp\guzzle\src\Client.php(168): GuzzleHttp\Client->transfer(Object(GuzzleHttp\Psr7\Request), [...])
+13 VENDORPATH\guzzlehttp\guzzle\src\Client.php(187): GuzzleHttp\Client->requestAsync('POST', Object(GuzzleHttp\Psr7\Uri), [...])
+14 VENDORPATH\guzzlehttp\guzzle\src\ClientTrait.php(95): GuzzleHttp\Client->request('POST', 'messaging', [...])
+15 VENDORPATH\africastalking\africastalking\src\SMS.php(38): GuzzleHttp\Client->post('messaging', [...])
+16 APPPATH\Libraries\SMS.php(33): AfricasTalking\SDK\SMS->send([...])
+17 APPPATH\Controllers\Products.php(99): App\Libraries\SMS::sendSMS('+254705934323', '555063 is your OTP. Do not share with anyone!
+')
+18 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+19 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+20 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+21 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+22 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 06:51:52 --> Class "App\Libraries\SMS" not found
+in APPPATH\Controllers\Products.php on line 98.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 06:52:40 --> cURL error 60: SSL certificate problem: unable to get local issuer certificate (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://api.africastalking.com/version1/messaging
+in VENDORPATH\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 211.
+ 1 VENDORPATH\guzzlehttp\guzzle\src\Handler\CurlFactory.php(158): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), [...])
+ 2 VENDORPATH\guzzlehttp\guzzle\src\Handler\CurlFactory.php(110): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+ 3 VENDORPATH\guzzlehttp\guzzle\src\Handler\CurlHandler.php(47): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+ 4 VENDORPATH\guzzlehttp\guzzle\src\Handler\Proxy.php(28): GuzzleHttp\Handler\CurlHandler->__invoke(Object(GuzzleHttp\Psr7\Request), [...])
+ 5 VENDORPATH\guzzlehttp\guzzle\src\Handler\Proxy.php(48): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), [...])
+ 6 VENDORPATH\guzzlehttp\guzzle\src\PrepareBodyMiddleware.php(64): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), [...])
+ 7 VENDORPATH\guzzlehttp\guzzle\src\Middleware.php(31): GuzzleHttp\PrepareBodyMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), [...])
+ 8 VENDORPATH\guzzlehttp\guzzle\src\RedirectMiddleware.php(71): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), [...])
+ 9 VENDORPATH\guzzlehttp\guzzle\src\Middleware.php(63): GuzzleHttp\RedirectMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), [...])
+10 VENDORPATH\guzzlehttp\guzzle\src\HandlerStack.php(75): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), [...])
+11 VENDORPATH\guzzlehttp\guzzle\src\Client.php(331): GuzzleHttp\HandlerStack->__invoke(Object(GuzzleHttp\Psr7\Request), [...])
+12 VENDORPATH\guzzlehttp\guzzle\src\Client.php(168): GuzzleHttp\Client->transfer(Object(GuzzleHttp\Psr7\Request), [...])
+13 VENDORPATH\guzzlehttp\guzzle\src\Client.php(187): GuzzleHttp\Client->requestAsync('POST', Object(GuzzleHttp\Psr7\Uri), [...])
+14 VENDORPATH\guzzlehttp\guzzle\src\ClientTrait.php(95): GuzzleHttp\Client->request('POST', 'messaging', [...])
+15 VENDORPATH\africastalking\africastalking\src\SMS.php(38): GuzzleHttp\Client->post('messaging', [...])
+16 APPPATH\Libraries\SMS.php(35): AfricasTalking\SDK\SMS->send([...])
+17 APPPATH\Controllers\Products.php(99): App\Libraries\SMS::sendSMS('+254705934323', '668614 is your OTP. Do not share with anyone!
+')
+18 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+19 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+20 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+21 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+22 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 06:55:52 --> cURL error 60: SSL certificate problem: unable to get local issuer certificate (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://api.africastalking.com/version1/messaging
+in VENDORPATH\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 211.
+ 1 VENDORPATH\guzzlehttp\guzzle\src\Handler\CurlFactory.php(158): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), [...])
+ 2 VENDORPATH\guzzlehttp\guzzle\src\Handler\CurlFactory.php(110): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+ 3 VENDORPATH\guzzlehttp\guzzle\src\Handler\CurlHandler.php(47): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+ 4 VENDORPATH\guzzlehttp\guzzle\src\Handler\Proxy.php(28): GuzzleHttp\Handler\CurlHandler->__invoke(Object(GuzzleHttp\Psr7\Request), [...])
+ 5 VENDORPATH\guzzlehttp\guzzle\src\Handler\Proxy.php(48): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), [...])
+ 6 VENDORPATH\guzzlehttp\guzzle\src\PrepareBodyMiddleware.php(64): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), [...])
+ 7 VENDORPATH\guzzlehttp\guzzle\src\Middleware.php(31): GuzzleHttp\PrepareBodyMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), [...])
+ 8 VENDORPATH\guzzlehttp\guzzle\src\RedirectMiddleware.php(71): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), [...])
+ 9 VENDORPATH\guzzlehttp\guzzle\src\Middleware.php(63): GuzzleHttp\RedirectMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), [...])
+10 VENDORPATH\guzzlehttp\guzzle\src\HandlerStack.php(75): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), [...])
+11 VENDORPATH\guzzlehttp\guzzle\src\Client.php(331): GuzzleHttp\HandlerStack->__invoke(Object(GuzzleHttp\Psr7\Request), [...])
+12 VENDORPATH\guzzlehttp\guzzle\src\Client.php(168): GuzzleHttp\Client->transfer(Object(GuzzleHttp\Psr7\Request), [...])
+13 VENDORPATH\guzzlehttp\guzzle\src\Client.php(187): GuzzleHttp\Client->requestAsync('POST', Object(GuzzleHttp\Psr7\Uri), [...])
+14 VENDORPATH\guzzlehttp\guzzle\src\ClientTrait.php(95): GuzzleHttp\Client->request('POST', 'messaging', [...])
+15 VENDORPATH\africastalking\africastalking\src\SMS.php(38): GuzzleHttp\Client->post('messaging', [...])
+16 APPPATH\Libraries\SMS.php(35): AfricasTalking\SDK\SMS->send([...])
+17 APPPATH\Controllers\Products.php(99): App\Libraries\SMS::sendSMS('+254705934323', '611735 is your OTP. Do not share with anyone!
+')
+18 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+19 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+20 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+21 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+22 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 06:57:33 --> require(vendor/autoload.php): Failed to open stream: No such file or directory
+in APPPATH\Libraries\SMS.php on line 5.
+ 1 APPPATH\Libraries\SMS.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(vendor/autoload.php): Failed to open stream: No such file or directory', 'APPPATH\\Libraries\\SMS.php', 5)
+ 2 APPPATH\Libraries\SMS.php(5): require()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(284): include_once('APPPATH\\Libraries\\SMS.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Libraries\\SMS.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Libraries\\SMS')
+ 6 APPPATH\Controllers\Products.php(98): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Libraries\\SMS')
+ 7 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 8 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 9 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 07:00:32 --> require(./vendor/autoload.php): Failed to open stream: No such file or directory
+in APPPATH\Libraries\SMS.php on line 5.
+ 1 APPPATH\Libraries\SMS.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(./vendor/autoload.php): Failed to open stream: No such file or directory', 'APPPATH\\Libraries\\SMS.php', 5)
+ 2 APPPATH\Libraries\SMS.php(5): require()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(284): include_once('APPPATH\\Libraries\\SMS.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Libraries\\SMS.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Libraries\\SMS')
+ 6 APPPATH\Controllers\Products.php(98): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Libraries\\SMS')
+ 7 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 8 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 9 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 07:01:26 --> require(vendor\autoload.php): Failed to open stream: No such file or directory
+in APPPATH\Libraries\SMS.php on line 5.
+ 1 APPPATH\Libraries\SMS.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(vendor\\autoload.php): Failed to open stream: No such file or directory', 'APPPATH\\Libraries\\SMS.php', 5)
+ 2 APPPATH\Libraries\SMS.php(5): require()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(284): include_once('APPPATH\\Libraries\\SMS.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Libraries\\SMS.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Libraries\\SMS')
+ 6 APPPATH\Controllers\Products.php(98): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Libraries\\SMS')
+ 7 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 8 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 9 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 07:01:41 --> cURL error 60: SSL certificate problem: unable to get local issuer certificate (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://api.africastalking.com/version1/messaging
+in VENDORPATH\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 211.
+ 1 VENDORPATH\guzzlehttp\guzzle\src\Handler\CurlFactory.php(158): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), [...])
+ 2 VENDORPATH\guzzlehttp\guzzle\src\Handler\CurlFactory.php(110): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+ 3 VENDORPATH\guzzlehttp\guzzle\src\Handler\CurlHandler.php(47): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+ 4 VENDORPATH\guzzlehttp\guzzle\src\Handler\Proxy.php(28): GuzzleHttp\Handler\CurlHandler->__invoke(Object(GuzzleHttp\Psr7\Request), [...])
+ 5 VENDORPATH\guzzlehttp\guzzle\src\Handler\Proxy.php(48): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), [...])
+ 6 VENDORPATH\guzzlehttp\guzzle\src\PrepareBodyMiddleware.php(64): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), [...])
+ 7 VENDORPATH\guzzlehttp\guzzle\src\Middleware.php(31): GuzzleHttp\PrepareBodyMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), [...])
+ 8 VENDORPATH\guzzlehttp\guzzle\src\RedirectMiddleware.php(71): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), [...])
+ 9 VENDORPATH\guzzlehttp\guzzle\src\Middleware.php(63): GuzzleHttp\RedirectMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), [...])
+10 VENDORPATH\guzzlehttp\guzzle\src\HandlerStack.php(75): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), [...])
+11 VENDORPATH\guzzlehttp\guzzle\src\Client.php(331): GuzzleHttp\HandlerStack->__invoke(Object(GuzzleHttp\Psr7\Request), [...])
+12 VENDORPATH\guzzlehttp\guzzle\src\Client.php(168): GuzzleHttp\Client->transfer(Object(GuzzleHttp\Psr7\Request), [...])
+13 VENDORPATH\guzzlehttp\guzzle\src\Client.php(187): GuzzleHttp\Client->requestAsync('POST', Object(GuzzleHttp\Psr7\Uri), [...])
+14 VENDORPATH\guzzlehttp\guzzle\src\ClientTrait.php(95): GuzzleHttp\Client->request('POST', 'messaging', [...])
+15 VENDORPATH\africastalking\africastalking\src\SMS.php(38): GuzzleHttp\Client->post('messaging', [...])
+16 APPPATH\Libraries\SMS.php(35): AfricasTalking\SDK\SMS->send([...])
+17 APPPATH\Controllers\Products.php(99): App\Libraries\SMS::sendSMS('+254705934323', '730773 is your OTP. Do not share with anyone!
+')
+18 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+19 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+20 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+21 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+22 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 08:00:28 --> Array to string conversion
+in APPPATH\Controllers\Products.php on line 141.
+ 1 APPPATH\Controllers\Products.php(141): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Controllers\\Products.php', 141)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 08:04:24 --> Undefined property: stdClass::$user_otp
+in APPPATH\Controllers\Products.php on line 113.
+ 1 APPPATH\Controllers\Products.php(113): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$user_otp', 'APPPATH\\Controllers\\Products.php', 113)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 08:04:50 --> Attempt to read property "otp" on array
+in APPPATH\Controllers\Products.php on line 164.
+ 1 APPPATH\Controllers\Products.php(164): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "otp" on array', 'APPPATH\\Controllers\\Products.php', 164)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 08:29:07 --> CodeIgniter\BaseModel::transformDataToArray(): Return value must be of type array, string returned
+in SYSTEMPATH\BaseModel.php on line 1598.
+ 1 SYSTEMPATH\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray('{"otp":"520443"}', 'update')
+ 2 SYSTEMPATH\Model.php(692): CodeIgniter\BaseModel->update([...], '{"otp":"520443"}')
+ 3 APPPATH\Controllers\Products.php(87): CodeIgniter\Model->update('1', '{"otp":"520443"}')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->login()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 08:29:31 --> CodeIgniter\BaseModel::transformDataToArray(): Return value must be of type array, string returned
+in SYSTEMPATH\BaseModel.php on line 1598.
+ 1 SYSTEMPATH\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray('{"otp":"461082"}', 'update')
+ 2 SYSTEMPATH\Model.php(692): CodeIgniter\BaseModel->update([...], '{"otp":"461082"}')
+ 3 APPPATH\Controllers\Products.php(87): CodeIgniter\Model->update('1', '{"otp":"461082"}')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->login()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 08:29:43 --> CodeIgniter\BaseModel::transformDataToArray(): Return value must be of type array, string returned
+in SYSTEMPATH\BaseModel.php on line 1598.
+ 1 SYSTEMPATH\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray('{"otp":"842858"}', 'update')
+ 2 SYSTEMPATH\Model.php(692): CodeIgniter\BaseModel->update([...], '{"otp":"842858"}')
+ 3 APPPATH\Controllers\Products.php(87): CodeIgniter\Model->update('1', '{"otp":"842858"}')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->login()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 08:31:47 --> CodeIgniter\BaseModel::transformDataToArray(): Return value must be of type array, string returned
+in SYSTEMPATH\BaseModel.php on line 1598.
+ 1 SYSTEMPATH\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray('{"otp":"132027"}', 'update')
+ 2 SYSTEMPATH\Model.php(692): CodeIgniter\BaseModel->update([...], '{"otp":"132027"}')
+ 3 APPPATH\Controllers\Products.php(87): CodeIgniter\Model->update('1', '{"otp":"132027"}')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->login()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 08:32:29 --> CodeIgniter\BaseModel::transformDataToArray(): Return value must be of type array, string returned
+in SYSTEMPATH\BaseModel.php on line 1598.
+ 1 SYSTEMPATH\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray('{"otp":"466861"}', 'update')
+ 2 SYSTEMPATH\Model.php(692): CodeIgniter\BaseModel->update([...], '{"otp":"466861"}')
+ 3 APPPATH\Controllers\Products.php(87): CodeIgniter\Model->update('1', '{"otp":"466861"}')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->login()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 08:35:22 --> CodeIgniter\BaseModel::transformDataToArray(): Return value must be of type array, string returned
+in SYSTEMPATH\BaseModel.php on line 1598.
+ 1 SYSTEMPATH\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray('{"otp":"514140"}', 'update')
+ 2 SYSTEMPATH\Model.php(692): CodeIgniter\BaseModel->update([...], '{"otp":"514140"}')
+ 3 APPPATH\Controllers\Products.php(88): CodeIgniter\Model->update('1', '{"otp":"514140"}')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->login()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 08:37:41 --> CodeIgniter\BaseModel::transformDataToArray(): Return value must be of type array, string returned
+in SYSTEMPATH\BaseModel.php on line 1598.
+ 1 SYSTEMPATH\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray('{"otp":"416461"}', 'update')
+ 2 SYSTEMPATH\Model.php(692): CodeIgniter\BaseModel->update([...], '{"otp":"416461"}')
+ 3 APPPATH\Controllers\Products.php(88): CodeIgniter\Model->update('1', '{"otp":"416461"}')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->login()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 08:38:24 --> CodeIgniter\BaseModel::transformDataToArray(): Return value must be of type array, string returned
+in SYSTEMPATH\BaseModel.php on line 1598.
+ 1 SYSTEMPATH\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray('{"otp":"217647"}', 'update')
+ 2 SYSTEMPATH\Model.php(692): CodeIgniter\BaseModel->update([...], '{"otp":"217647"}')
+ 3 APPPATH\Controllers\Products.php(88): CodeIgniter\Model->update('1', '{"otp":"217647"}')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->login()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 08:38:31 --> CodeIgniter\BaseModel::transformDataToArray(): Return value must be of type array, string returned
+in SYSTEMPATH\BaseModel.php on line 1598.
+ 1 SYSTEMPATH\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray('{"otp":"167243"}', 'update')
+ 2 SYSTEMPATH\Model.php(692): CodeIgniter\BaseModel->update([...], '{"otp":"167243"}')
+ 3 APPPATH\Controllers\Products.php(88): CodeIgniter\Model->update('1', '{"otp":"167243"}')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->login()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 08:41:47 --> Object of class stdClass could not be converted to string
+in APPPATH\Controllers\Products.php on line 79.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->login()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 08:49:16 --> Attempt to read property "mobile" on string
+in APPPATH\Controllers\Products.php on line 104.
+ 1 APPPATH\Controllers\Products.php(104): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "mobile" on string', 'APPPATH\\Controllers\\Products.php', 104)
+ 2 APPPATH\Controllers\Products.php(80): App\Controllers\Products->sendOTP('{"product_id":"1","mobile":"+254705934323","product_name":"Product 1","product_price":"2000","otp":"993573"}')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->login()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 08:50:20 --> Attempt to read property "mobile" on array
+in APPPATH\Controllers\Products.php on line 104.
+ 1 APPPATH\Controllers\Products.php(104): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "mobile" on array', 'APPPATH\\Controllers\\Products.php', 104)
+ 2 APPPATH\Controllers\Products.php(80): App\Controllers\Products->sendOTP([...])
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->login()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 08:51:21 --> Attempt to read property "mobile" on array
+in APPPATH\Controllers\Products.php on line 104.
+ 1 APPPATH\Controllers\Products.php(104): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "mobile" on array', 'APPPATH\\Controllers\\Products.php', 104)
+ 2 APPPATH\Controllers\Products.php(80): App\Controllers\Products->sendOTP([...])
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->login()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 08:51:53 --> Attempt to read property "mobile" on string
+in APPPATH\Controllers\Products.php on line 104.
+ 1 APPPATH\Controllers\Products.php(104): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "mobile" on string', 'APPPATH\\Controllers\\Products.php', 104)
+ 2 APPPATH\Controllers\Products.php(80): App\Controllers\Products->sendOTP('{"product_id":"1","mobile":"+254705934323","product_name":"Product 1","product_price":"2000","otp":"993573"}')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->login()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 08:52:29 --> Undefined property: App\Controllers\Products::$data
+in APPPATH\Controllers\Products.php on line 104.
+ 1 APPPATH\Controllers\Products.php(104): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Products::$data', 'APPPATH\\Controllers\\Products.php', 104)
+ 2 APPPATH\Controllers\Products.php(80): App\Controllers\Products->sendOTP('{"product_id":"1","mobile":"+254705934323","product_name":"Product 1","product_price":"2000","otp":"993573"}')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->login()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 08:52:57 --> Undefined property: App\Controllers\Products::${"product_id":"1","mobile":"+254705934323","product_name":"Product 1","product_price":"2000","otp":"993573"}
+in APPPATH\Controllers\Products.php on line 104.
+ 1 APPPATH\Controllers\Products.php(104): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Products::${"product_id":"1","mobile":"+254705934323","product_name":"Product 1","product_price":"2000","otp":"993573"}', 'APPPATH\\Controllers\\Products.php', 104)
+ 2 APPPATH\Controllers\Products.php(80): App\Controllers\Products->sendOTP('{"product_id":"1","mobile":"+254705934323","product_name":"Product 1","product_price":"2000","otp":"993573"}')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->login()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 08:53:52 --> Attempt to read property "mobile" on string
+in APPPATH\Controllers\Products.php on line 104.
+ 1 APPPATH\Controllers\Products.php(104): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "mobile" on string', 'APPPATH\\Controllers\\Products.php', 104)
+ 2 APPPATH\Controllers\Products.php(80): App\Controllers\Products->sendOTP('{"product_id":"1","mobile":"+254705934323","product_name":"Product 1","product_price":"2000","otp":"993573"}')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->login()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 08:54:28 --> CodeIgniter\BaseModel::transformDataToArray(): Return value must be of type array, string returned
+in SYSTEMPATH\BaseModel.php on line 1598.
+ 1 SYSTEMPATH\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray('{"otp":"687764"}', 'update')
+ 2 SYSTEMPATH\Model.php(692): CodeIgniter\BaseModel->update([...], '{"otp":"687764"}')
+ 3 APPPATH\Controllers\Products.php(108): CodeIgniter\Model->update('1', '{"otp":"687764"}')
+ 4 APPPATH\Controllers\Products.php(80): App\Controllers\Products->sendOTP('{"product_id":"1","mobile":"+254705934323","product_name":"Product 1","product_price":"2000","otp":"993573"}')
+ 5 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->login()
+ 6 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 08:55:55 --> Call to a member function update() on null
+in APPPATH\Controllers\Products.php on line 108.
+ 1 APPPATH\Controllers\Products.php(80): App\Controllers\Products->sendOTP('{"product_id":"1","mobile":"+254705934323","product_name":"Product 1","product_price":"2000","otp":"993573"}')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->login()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 08:56:26 --> Object of class App\Models\ProductModel could not be converted to string
+in APPPATH\Controllers\Products.php on line 108.
+ 1 APPPATH\Controllers\Products.php(80): App\Controllers\Products->sendOTP('{"product_id":"1","mobile":"+254705934323","product_name":"Product 1","product_price":"2000","otp":"993573"}')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->login()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 09:01:06 --> Object of class App\Models\ProductModel could not be converted to string
+in APPPATH\Controllers\Products.php on line 108.
+ 1 APPPATH\Controllers\Products.php(80): App\Controllers\Products->sendOTP('{"product_id":"1","mobile":"+254705934323","product_name":"Product 1","product_price":"2000","otp":"968270"}')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->login()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 09:01:32 --> Object of class App\Models\ProductModel could not be converted to string
+in APPPATH\Controllers\Products.php on line 108.
+ 1 APPPATH\Controllers\Products.php(80): App\Controllers\Products->sendOTP('+254705934323')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->login()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 09:01:58 --> CodeIgniter\BaseModel::transformDataToArray(): Return value must be of type array, string returned
+in SYSTEMPATH\BaseModel.php on line 1598.
+ 1 SYSTEMPATH\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray('{"otp":"778132"}', 'update')
+ 2 SYSTEMPATH\Model.php(692): CodeIgniter\BaseModel->update([...], '{"otp":"778132"}')
+ 3 APPPATH\Controllers\Products.php(108): CodeIgniter\Model->update('1', '{"otp":"778132"}')
+ 4 APPPATH\Controllers\Products.php(80): App\Controllers\Products->sendOTP('+254705934323')
+ 5 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->login()
+ 6 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 09:03:47 --> CodeIgniter\BaseModel::transformDataToArray(): Return value must be of type array, string returned
+in SYSTEMPATH\BaseModel.php on line 1598.
+ 1 SYSTEMPATH\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray('{"otp":"702290"}', 'update')
+ 2 SYSTEMPATH\Model.php(692): CodeIgniter\BaseModel->update([...], '{"otp":"702290"}')
+ 3 APPPATH\Controllers\Products.php(108): CodeIgniter\Model->update('1', '{"otp":"702290"}')
+ 4 APPPATH\Controllers\Products.php(80): App\Controllers\Products->sendOTP('+254705934323')
+ 5 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->login()
+ 6 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 09:05:57 --> CodeIgniter\BaseModel::transformDataToArray(): Return value must be of type array, string returned
+in SYSTEMPATH\BaseModel.php on line 1598.
+ 1 SYSTEMPATH\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray('{"otp":"254899"}', 'update')
+ 2 SYSTEMPATH\Model.php(692): CodeIgniter\BaseModel->update([...], '{"otp":"254899"}')
+ 3 APPPATH\Controllers\Products.php(100): CodeIgniter\Model->update('1', '{"otp":"254899"}')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->login()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 09:07:05 --> CodeIgniter\BaseModel::transformDataToArray(): Return value must be of type array, string returned
+in SYSTEMPATH\BaseModel.php on line 1598.
+ 1 SYSTEMPATH\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray('{"otp":"303437"}', 'update')
+ 2 SYSTEMPATH\Model.php(692): CodeIgniter\BaseModel->update([...], '{"otp":"303437"}')
+ 3 APPPATH\Controllers\Products.php(100): CodeIgniter\Model->update('1', '{"otp":"303437"}')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->login()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 09:08:51 --> CodeIgniter\BaseModel::transformDataToArray(): Return value must be of type array, string returned
+in SYSTEMPATH\BaseModel.php on line 1598.
+ 1 SYSTEMPATH\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray('{"otp":"987404"}', 'update')
+ 2 SYSTEMPATH\Model.php(692): CodeIgniter\BaseModel->update([...], '{"otp":"987404"}')
+ 3 APPPATH\Controllers\Products.php(100): CodeIgniter\Model->update('1', '{"otp":"987404"}')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->login()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 09:10:14 --> CodeIgniter\BaseModel::transformDataToArray(): Return value must be of type array, string returned
+in SYSTEMPATH\BaseModel.php on line 1598.
+ 1 SYSTEMPATH\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray('{"otp":"542020"}', 'update')
+ 2 SYSTEMPATH\Model.php(692): CodeIgniter\BaseModel->update([...], '{"otp":"542020"}')
+ 3 APPPATH\Controllers\Products.php(87): CodeIgniter\Model->update('1', '{"otp":"542020"}')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->login()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(63): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 09:15:18 --> CodeIgniter\BaseModel::transformDataToArray(): Return value must be of type array, string returned
+in SYSTEMPATH\BaseModel.php on line 1598.
+ 1 SYSTEMPATH\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray('{"otp":"609341"}', 'update')
+ 2 SYSTEMPATH\Model.php(692): CodeIgniter\BaseModel->update([...], '{"otp":"609341"}')
+ 3 APPPATH\Controllers\Products.php(104): CodeIgniter\Model->update('1', '{"otp":"609341"}')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->login()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(63): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 09:30:36 --> Undefined property: stdClass::$user_otp
+in APPPATH\Controllers\Products.php on line 113.
+ 1 APPPATH\Controllers\Products.php(113): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$user_otp', 'APPPATH\\Controllers\\Products.php', 113)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(63): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 09:30:56 --> Undefined property: stdClass::$user_otp
+in APPPATH\Controllers\Products.php on line 113.
+ 1 APPPATH\Controllers\Products.php(113): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$user_otp', 'APPPATH\\Controllers\\Products.php', 113)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(63): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 09:41:16 --> Undefined property: stdClass::$user_otp
+in APPPATH\Controllers\Products.php on line 113.
+ 1 APPPATH\Controllers\Products.php(113): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$user_otp', 'APPPATH\\Controllers\\Products.php', 113)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Products->otp()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(63): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-06 10:20:47 --> Undefined variable $config
+in APPPATH\Controllers\Products.php on line 9.
+ 1 APPPATH\Controllers\Products.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $config', 'APPPATH\\Controllers\\Products.php', 9)
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(284): include_once('APPPATH\\Controllers\\Products.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Products.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Products')
+ 5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Products')
+ 6 SYSTEMPATH\CodeIgniter.php(846): class_exists('\\App\\Controllers\\Products', true)
+ 7 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(63): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
